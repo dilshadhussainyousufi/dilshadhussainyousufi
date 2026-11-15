@@ -8,7 +8,7 @@ Web Developer and BSCS student at the University of Kotli, Pakistan.
 - **Tools:** Git, GitHub, VS Code
 
 ## 🚀 Featured Projects
-- **Mastana**: a Windows desktop AI voice assistant (Python, PyQt6, SQLite)
+- a Windows desktop AI voice assistant (Python, PyQt6, SQLite)
 - More coming soon
 
 ## 📫 Contact
