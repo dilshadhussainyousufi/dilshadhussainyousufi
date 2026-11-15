@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi, I'm Dilshad Hussain 👋
+
+Web Developer and BSCS student at the University of Kotli, Pakistan.
+
+## 🛠️ What I Work With
+- **Web:** HTML, CSS, JavaScript
+- **Backend / Scripting:** Python
+- **Tools:** Git, GitHub, VS Code
+
+## 🚀 Featured Projects
+- **Mastana**: a Windows desktop AI voice assistant (Python, PyQt6, SQLite)
+- More coming soon
+
+## 📫 Contact
+- GitHub: [@dilshadhussainyousufi](https://github.com/dilshadhussainyousufi)
+- Email: your-email@example.com## Hi there 👋
 
 <!--
 **dilshadhussainyousufi/dilshadhussainyousufi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
