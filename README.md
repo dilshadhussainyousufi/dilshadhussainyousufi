@@ -13,7 +13,7 @@ Web Developer and BSCS student at the University of Kotli, Pakistan.
 
 ## 📫 Contact
 - GitHub: [@dilshadhussainyousufi](https://github.com/dilshadhussainyousufi)
-- Email: your-email@example.com## Hi there 👋
+- Email: dillshadhussain899@gmail.com## Hi there 👋
 
 <!--
 **dilshadhussainyousufi/dilshadhussainyousufi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
